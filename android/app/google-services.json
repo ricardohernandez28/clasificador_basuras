@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265812990646",
+    "project_id": "clasificador-basuras-7e8ea",
+    "storage_bucket": "clasificador-basuras-7e8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265812990646:android:0efbf1900db739d051a417",
+        "android_client_info": {
+          "package_name": "com.example.clasificador_basuras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265812990646-mb3c6tt5jcusfci9b1h0vgcooijaihg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAilPdabuQVx8mYgwciROFQdSaCikl7il0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265812990646-mb3c6tt5jcusfci9b1h0vgcooijaihg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
